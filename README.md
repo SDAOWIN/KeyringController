@@ -11,7 +11,7 @@ The KeyringController has three main responsibilities:
 - Providing password-encryption persisting & restoring of secret information.
 
 ## Installation
-
+ 
 `yarn add eth-keyring-controller`
 
 ## Usage
